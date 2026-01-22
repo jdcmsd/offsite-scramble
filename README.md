@@ -2,6 +2,8 @@
 
 An SEO & GEO (Generative Engine Optimization) insights tool that analyzes websites and provides actionable recommendations for improving visibility in both traditional search engines and AI-powered search platforms.
 
+The full Cursor chat log used to generate this project can be found in [CURSOR_CHAT.md](CURSOR_CHAT.md).
+
 ## What This App Does
 
 - **Analyzes any website URL** for SEO and GEO best practices
