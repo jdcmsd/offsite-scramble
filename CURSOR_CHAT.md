@@ -3,6 +3,16 @@ _Exported on 1/22/2026 at 16:13:24 EST from Cursor (2.1.50)_
 
 ---
 
+## Table of Contents
+
+1. [User Prompt 1](#user-prompt-1) — Initial npm scaffolding (Vite + React + TypeScript)
+2. [User Prompt 2](#user-prompt-2) — Building the SEO/GEO insights dashboard UI
+3. [User Prompt 3](#user-prompt-3) — Adding inline recommendations with content analysis
+4. [User Prompt 4](#user-prompt-4) — API integration, HTML toggle, copy-to-clipboard, meta/schema recommendations
+5. [User Prompt 5](#user-prompt-5) — Removing hardcoded "TechFlow" mock data for real site analysis
+
+---
+
 # **User Prompt 1**
 
 I'd like to generate an MVP, a web app. Let's begin by getting some basic npm scaffolding set up in the current repo.
