@@ -3,7 +3,7 @@ _Exported on 1/22/2026 at 16:13:24 EST from Cursor (2.1.50)_
 
 ---
 
-# **User**
+# **User Prompt 1**
 
 I'd like to generate an MVP, a web app. Let's begin by getting some basic npm scaffolding set up in the current repo.
 
@@ -71,7 +71,7 @@ offsite-scramble/
 
 ---
 
-# **User**
+# **User Prompt 2**
 
 I'd like to build an agent that provides SEO/GEO insights and recommendations, as well as Brand visibility/GEO readiness.
 
@@ -1345,7 +1345,7 @@ Currently using mock data — want me to integrate with an actual API or LLM to 
 
 ---
 
-# **User**
+# **User Prompt 3**
 
 Can we continue to develop this? The results page looks great, but the thing that'd really carry it over the top is if it can give in-line recommendations using the content on the page, to indicate where in the render or in the HTML improvements would be most effective. 
 
@@ -2809,7 +2809,7 @@ Would you like me to:
 
 ---
 
-# **User**
+# **User Prompt 4**
 
 I like all four of those ideas. "Integrate with an actual API to analyze real URLs" was going to be my next request, but please, let's also do the other three.
 
@@ -6210,7 +6210,7 @@ npm run dev:all
 
 ---
 
-# **User**
+# **User Prompt 5**
 
 There are still vestiges of the "Techflow" mock data even when grabbing a real website. Can we sweep through to rectify that to use the real site data when appropriate?
 
