@@ -6,10 +6,15 @@ _Exported on 1/22/2026 at 16:13:24 EST from Cursor (2.1.50)_
 ## Table of Contents
 
 1. [User Prompt 1](#user-prompt-1) — Initial npm scaffolding (Vite + React + TypeScript)
+   > "I'd like to generate an MVP, a web app. Let's begin by getting some basic npm scaffolding set up in the current repo."
 2. [User Prompt 2](#user-prompt-2) — Building the SEO/GEO insights dashboard UI
+   > "I'd like to build an agent that provides SEO/GEO insights and recommendations, as well as Brand visibility/GEO readiness."
 3. [User Prompt 3](#user-prompt-3) — Adding inline recommendations with content analysis
+   > "Can we continue to develop this? The results page looks great, but the thing that'd really carry it over the top is if it can give in-line recommendations using the content on the page, to indicate where in the render or in the HTML improvements would be most effective."
 4. [User Prompt 4](#user-prompt-4) — API integration, HTML toggle, copy-to-clipboard, meta/schema recommendations
+   > "I like all four of those ideas. 'Integrate with an actual API to analyze real URLs' was going to be my next request, but please, let's also do the other three."
 5. [User Prompt 5](#user-prompt-5) — Removing hardcoded "TechFlow" mock data for real site analysis
+   > "There are still vestiges of the 'Techflow' mock data even when grabbing a real website. Can we sweep through to rectify that to use the real site data when appropriate?"
 
 ---
 
